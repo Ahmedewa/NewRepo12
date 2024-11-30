@@ -1,0 +1,16 @@
+{
+  "name": "deloyment-of-banking-app-to-the-cloud",
+  "version": "0.0.0",
+  "description": "DELOYMENT-OF-BANKING-APP-TO-THE-CLOUD",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "@coplus/vue_ui": "^0.44.6"
+  }
+}
